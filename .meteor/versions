@@ -39,7 +39,6 @@ localstorage@1.0.12
 logging@1.1.17
 meteor@1.6.1
 meteor-base@1.0.4
-meteorhacks:fast-render@2.16.0
 meteorhacks:inject-data@2.0.0
 meteorhacks:meteorx@1.4.1
 meteorhacks:picker@1.0.3
@@ -55,6 +54,7 @@ mongo-id@1.0.6
 npm-mongo@2.2.16_1
 observe-sequence@1.0.15
 ordered-dict@1.0.9
+patched:fast-render@2.16.0
 promise@0.8.8
 random@1.0.10
 reactive-var@1.0.11
